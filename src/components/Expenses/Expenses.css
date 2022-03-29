@@ -1,0 +1,25 @@
+.expenses {
+  padding: 1rem;
+  background-color: rgb(31, 31, 31);
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+  font-family: "Inter";
+}
+
+.warning {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin: 1rem auto;
+  justify-content: center;
+  color: #000;
+  padding: 2rem;
+  /* border: 1px solid #40005d; */
+  border-radius: 10px;
+  background-color: #a892ee;
+  font-family: "Inter";
+  width: 20rem;
+}
